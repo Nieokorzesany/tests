@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha format-date/index.test.js"
+    "test": "mocha format-date/index.test.js",
+    "test2": "mocha ski-jump/calculateDistancePoints.test.js",
+    "test3": "mocha ski-jump/calculateStylePoints.test.js",
+    "test4": "mocha ski-jump/calculateTotalPoints.test.js"
   },
   "repository": {
     "type": "git",
