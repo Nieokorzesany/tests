@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha format-date/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nieokorzesany/tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nieokorzesany/tests/issues"
+  },
+  "homepage": "https://github.com/Nieokorzesany/tests#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
